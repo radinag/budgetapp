@@ -1,4 +1,4 @@
-//Budget Controllerr
+//Budget Controller
 
 var budgetController = (function () {
 
